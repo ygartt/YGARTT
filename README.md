@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Yassine, a MERN Stack developer with a strong passion for frontend development and design. I enjoy building modern web experiences where clean code meets creative design. My background in graphic design allows me to approach frontend development with a unique perspective, focusing not only on functionality but also on aesthetics and user experience. I love transforming ideas into interactive, visually engaging interfaces, using technology as a tool to bring creativity to life.
+I’m Yassine, a MERN Stack Developer and Graphic Designer passionate about building digital experiences where technology meets creativity. I specialize in frontend development, combining clean code, modern interfaces, and strong visual design to turn ideas into engaging web experiences. With a background in graphic design, I approach development from both a technical and creative perspective, focusing on the details that make a product not only functional, but memorable. For me, code is more than a tool .. it’s a way to bring ideas to life.
 
 
 ## 🌐 Socials:
