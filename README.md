@@ -1,6 +1,5 @@
 # 💫 About Me:
-Frontend Engineer & Visual Designer crafting premium digital experiences with MERN, design, and AI.
-Helping brands turn ideas into distinctive, intuitive web experiences where code meets creativity.
+A Frontend Engineer & Visual Designer passionate about turning ideas into bold digital experiences. I combine development, visual design, 3D, and AI to create work that feels distinctive, intuitive, and thoughtfully crafted. My approach blends technical precision with creative direction, always pushing for experiences that are not only functional, but memorable.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ygartt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-gorma-elidrisi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yg_artt) 
