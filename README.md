@@ -1,8 +1,6 @@
 # 💫 About Me:
-Mern Stack Developer & Graphic Designer helping brands turn ideas into standout digital experiences.
-
-I combine clean code with creative design to build digital products that look distinctive, feel intuitive, and work seamlessly.
-
+Frontend Engineer & Visual Designer crafting premium digital experiences with MERN, design, and AI.
+Helping brands turn ideas into distinctive, intuitive web experiences where code meets creativity.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ygartt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-gorma-elidrisi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yg_artt) 
